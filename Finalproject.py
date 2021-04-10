@@ -55,4 +55,4 @@ if question10 != "Keanu reeves":
 if point > 50:
   print(f"Your score is: {point}. Congrats, You win!")
 else:
-  print(f"Your score is: {point}. You lost.")
+  print(f"Your score is: {point}. You lose.")
